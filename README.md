@@ -7,4 +7,4 @@
 - 💬 Ask me about OpenCV, ImageMagick or Linux command line utilities.
 - 📫 How to reach me: https://t.me/KorayEy
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Still watching 80s cartoons.
+- ⚡ Fun fact: Still watching '80s cartoons.
