@@ -11,16 +11,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=korayeyinc&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=korayeyinc&repo=github-readme-stats&theme=radical" />
 </a>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayeyinc&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayeyinc&repo=github-readme-stats&theme=radical" />
 </a>
-
-
-![Koray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=korayeyinc&show_icons=true&layout=default&theme=radical&width="45%"&align="right")
-
-
-![Koray's Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=korayeyinc&layout=default&theme=radical&width="45%"&align="left")
