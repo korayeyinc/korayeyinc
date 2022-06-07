@@ -13,4 +13,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korayeyinc&layout=default&theme=radical)
 
 
-![Koray's GitHub stats](https://github-readme-stats.vercel.app/api?username=korayeyinc&show_icons=true&layout=default&theme=radical width="45%" align="right")
+![Koray's GitHub stats](https://github-readme-stats.vercel.app/api?username=korayeyinc&show_icons=true&layout=default&theme=radical&width=45%&align=right)
