@@ -6,8 +6,11 @@
 - 🤔 I’m looking for help with Rust and WebAssembly development.
 - 💬 Ask me about OpenCV, ImageMagick or Linux command line utilities.
 - 📫 How to reach me: https://t.me/KorayEy
-- 😄 Pronouns: He/him
+- 😄 Pronouns: Koray
 - ⚡ Fun fact: Still watching '80s cartoons.
 
-### My Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korayeyinc&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korayeyinc&layout=compact&theme=dracula)
+
+
+![Koray's GitHub stats](https://github-readme-stats.vercel.app/api?username=korayeyinc&show_icons=true&theme=dracula)
