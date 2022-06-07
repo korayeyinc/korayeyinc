@@ -9,9 +9,11 @@
 - 😄 Pronouns: Koray
 - ⚡ Fun fact: Still watching '80s cartoons.
 
+<br>
 
 ---
 
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=korayeyinc&repo=github-readme-stats&theme=tokyonight&layout=compact&show_icons=true" />
@@ -19,5 +21,5 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayeyinc&repo=github-readme-stats&theme=tokyonight&layout=compact&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayeyinc&repo=github-readme-stats&theme=tokyonight&layout=default&show_icons=true" />
 </a>
