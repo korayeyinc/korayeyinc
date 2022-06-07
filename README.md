@@ -8,3 +8,9 @@
 - 📫 How to reach me: https://t.me/KorayEy
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Still watching '80s cartoons.
+
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username={korayeyinc}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korayeyinc&layout=compact)
