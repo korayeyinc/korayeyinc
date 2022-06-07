@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on FreeCAD software.
 - 🤔 I’m looking for help with Rust and WebAssembly development.
 - 💬 Ask me about OpenCV, ImageMagick or Linux command line utilities.
-- 📫 How to reach me: https://t.me/KorayEy
+- 📫 How to reach me: <https://t.me/KorayEy>
 - 😄 Pronouns: Koray
 - ⚡ Fun fact: Still watching '80s cartoons.
 
