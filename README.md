@@ -10,11 +10,14 @@
 - ⚡ Fun fact: Still watching '80s cartoons.
 
 
+---
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=korayeyinc&repo=github-readme-stats&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=korayeyinc&repo=github-readme-stats&theme=tokyonight&layout=compact&show_icons=true" />
 </a>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayeyinc&repo=github-readme-stats&theme=tokyonight&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayeyinc&repo=github-readme-stats&theme=tokyonight&layout=compact&show_icons=true" />
 </a>
