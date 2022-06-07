@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Still watching '80s cartoons.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korayeyinc&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korayeyinc&layout=default&theme=radical)
 
 
-![Koray's GitHub stats](https://github-readme-stats.vercel.app/api?username=korayeyinc&show_icons=true&theme=dracula)
+![Koray's GitHub stats](https://github-readme-stats.vercel.app/api?username=korayeyinc&show_icons=true&layout=default&theme=radical)
